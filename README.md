@@ -1,2 +1,3 @@
-# MostPopularInNetflixStatistics
-A data analysis project in Python made with this dataset: https://www.kaggle.com/datasets/himanshunakrani/most-popular-on-netflix?resource=download.
+# Most Popular In Netflix
+
+This project is used as a Proof of Concept of the Revelations project!
